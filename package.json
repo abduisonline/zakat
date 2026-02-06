@@ -1,0 +1,27 @@
+{
+  "name": "zakat-calculator",
+  "version": "1.0.0",
+  "description": "Gilded Tectonic Zakat Calculator - Calculate Zakat on wealth per mainstream Sunni fiqh",
+  "main": "calculator.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000 --open=calculator.html",
+    "build": "echo 'Static site - no build needed'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "zakat",
+    "islamic-finance",
+    "calculator",
+    "aed",
+    "inr",
+    "gold",
+    "silver",
+    "hanafi",
+    "shafi"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
